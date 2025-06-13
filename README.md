@@ -73,7 +73,6 @@ Este projeto está sob a licença ISC.
 - Otimização de performance com Vite
 
 ## 📫 Contato
+[LinkedIn - Ryan Brayan](https://www.linkedin.com/in/ryanbrayan/)
 
-[Seu Nome] - [Seu Email]
 
-Link do Projeto: [URL_DO_REPOSITÓRIO]
